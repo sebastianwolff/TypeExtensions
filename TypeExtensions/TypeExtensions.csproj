@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Sebastian Wolff</Authors>
+    <Description>A Collection of TypeExtensions for .net 5</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Product>TypeExtensions .net 5</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
